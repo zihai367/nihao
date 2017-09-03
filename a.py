@@ -1,4 +1,5 @@
 hello world
 for a in range(9):
-	print 'nihao',str(a)
-
+	print 'nihao'
+def f(a):
+	return a*a+1
