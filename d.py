@@ -1,2 +1,0 @@
-Kobe Bryant
-Leborn James
